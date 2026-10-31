@@ -2,6 +2,8 @@
 
 Calendario para la bandeja del sistema de Windows 10/11, clon del calendario de la barra de tareas, **con números de semana**.
 
+![Calendario abierto junto a la barra de tareas, con la columna de números de semana](assets/Screenshot.png)
+
 ## Cómo se usa
 
 1. Instala la aplicación y ábrela desde el menú Inicio. El calendario se abre junto a la barra de tareas y el icono queda en la bandeja del sistema, al lado del reloj.
